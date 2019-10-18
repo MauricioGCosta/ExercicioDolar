@@ -1,0 +1,11 @@
+C:\Temp\ExercicioDolar\ExercicioDolar\bin\Debug\netcoreapp2.2\ExercicioDolar.deps.json
+C:\Temp\ExercicioDolar\ExercicioDolar\bin\Debug\netcoreapp2.2\ExercicioDolar.runtimeconfig.json
+C:\Temp\ExercicioDolar\ExercicioDolar\bin\Debug\netcoreapp2.2\ExercicioDolar.runtimeconfig.dev.json
+C:\Temp\ExercicioDolar\ExercicioDolar\bin\Debug\netcoreapp2.2\ExercicioDolar.dll
+C:\Temp\ExercicioDolar\ExercicioDolar\bin\Debug\netcoreapp2.2\ExercicioDolar.pdb
+C:\Temp\ExercicioDolar\ExercicioDolar\obj\Debug\netcoreapp2.2\ExercicioDolar.csprojAssemblyReference.cache
+C:\Temp\ExercicioDolar\ExercicioDolar\obj\Debug\netcoreapp2.2\ExercicioDolar.csproj.CoreCompileInputs.cache
+C:\Temp\ExercicioDolar\ExercicioDolar\obj\Debug\netcoreapp2.2\ExercicioDolar.AssemblyInfoInputs.cache
+C:\Temp\ExercicioDolar\ExercicioDolar\obj\Debug\netcoreapp2.2\ExercicioDolar.AssemblyInfo.cs
+C:\Temp\ExercicioDolar\ExercicioDolar\obj\Debug\netcoreapp2.2\ExercicioDolar.dll
+C:\Temp\ExercicioDolar\ExercicioDolar\obj\Debug\netcoreapp2.2\ExercicioDolar.pdb
